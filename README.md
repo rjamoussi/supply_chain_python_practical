@@ -39,6 +39,3 @@ This data set contains the projected orders from 2025-2030. The columns are as f
 This data set contains the initial proposed plan to meet demand from 2025-2030. This is the plan that needs to be vetted for feasibility and mitigating actions. This data set contains the following columns:
    -  Asset: The asset slated to fill the order.
    -  proj_id: The order to be put on the asset.
-
-
-**Please be sure to submit your solution to Anthony Del Russo [anthony.del.russo@merck.com](mailto:anthony.del.russo@merck.com?subject=Code_Submission) either in the form of a Zip file or a link to a GitHub page.**
