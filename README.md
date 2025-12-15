@@ -1,25 +1,3 @@
-Welcome to the python practical!
-
-The goal of this practical is to assess your python proficiency and problem solving skills. It is expected that you will only use python to achieve the task below. During the interview, you will be given time to:
-1. 5 Minutes to explain your findings and any recommendations (if there are any).
-2. 10-15 minutes to answer questions regarding your code and your approach to solving the issue. Code based questions may be (but will not be limited to):
-  - How did you set up your environment?
-  - Did you use any packages to solve the problem? Which ones and why?
-  - Q's around code organization, style, and function.
-
-It is okay to use any resources you may need to solve this problem, but remember that you will be thoroughly questioned about the solution and your understanding of the process & code used to arrive at the solution.
-
-You may be wondering why I provided you the data in the format that I did. While I can't stop you from converting things into excel/csvs - That is not the point of this practical. I'd appreciate it if you used python entirely in order to solve this problem.
-
-The datasets (which will be described later) are provided in JSON files oriented as a list of records where each record is a row of data - for example:
-```
-data = [{column: value, column, value, ..}, ...]
-```
-
-All work should be done in the same directory as the datasets. You can manipulate the provided data sets in any way you'd like to arrive at a solution.
-
-*If you are unable to make progress on the problem after some point, that is okay! Please just give it your best shot and do as much as you can do and outline difficulties you had in the process!*
-
 # The Problem - Strategic Asset Production Plan
 The new demand forecast and projected orders for the next 5 years just arrived. In order to ensure our companies success, we need to assess the capability of our existing supply chain to meet the forecasted demand.
 
@@ -62,15 +40,5 @@ This data set contains the initial proposed plan to meet demand from 2025-2030. 
    -  Asset: The asset slated to fill the order.
    -  proj_id: The order to be put on the asset.
 
-
-# The Solution
-
-A good solution should contain the following:
-1. At least one visualization (made using python) of the current production plan that outlines any nuances or issues with the plan that need to be brought to the attention of senior leadership.
-2. A description of any recommended actions needed to mitigate any issues with the current production plan.
-
-- Note: The solution should be given using **annual grain of data**. All outputs should be visualized on an annual basis, not monthly.
-
-Feel free to add any more detail if you feel it is needed. You will have no more than 5 minutes to go over the above 2 points in the interview.
 
 **Please be sure to submit your solution to Anthony Del Russo [anthony.del.russo@merck.com](mailto:anthony.del.russo@merck.com?subject=Code_Submission) either in the form of a Zip file or a link to a GitHub page.**
