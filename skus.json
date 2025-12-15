@@ -1,0 +1,22 @@
+[
+    {
+        "Product": "A",
+        "Lot Size": 4000
+    },
+    {
+        "Product": "B",
+        "Lot Size": 6000
+    },
+    {
+        "Product": "C",
+        "Lot Size": 1000
+    },
+    {
+        "Product": "D",
+        "Lot Size": 6500
+    },
+    {
+        "Product": "E",
+        "Lot Size": 15000
+    }
+]

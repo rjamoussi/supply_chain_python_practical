@@ -1,0 +1,122 @@
+[
+    {
+        "asset_id": "L007",
+        "Product": "A",
+        "run_rate": 45,
+        "cleanup_time": 1.0
+    },
+    {
+        "asset_id": "L007",
+        "Product": "B",
+        "run_rate": 45,
+        "cleanup_time": 1.0
+    },
+    {
+        "asset_id": "L007",
+        "Product": "C",
+        "run_rate": 45,
+        "cleanup_time": 1.5
+    },
+    {
+        "asset_id": "L007",
+        "Product": "D",
+        "run_rate": 45,
+        "cleanup_time": 1.5
+    },
+    {
+        "asset_id": "L007",
+        "Product": "E",
+        "run_rate": 45,
+        "cleanup_time": 3.0
+    },
+    {
+        "asset_id": "L042",
+        "Product": "A",
+        "run_rate": 75,
+        "cleanup_time": 2.0
+    },
+    {
+        "asset_id": "L042",
+        "Product": "B",
+        "run_rate": 120,
+        "cleanup_time": 4.0
+    },
+    {
+        "asset_id": "L042",
+        "Product": "C",
+        "run_rate": 15,
+        "cleanup_time": 5.0
+    },
+    {
+        "asset_id": "L042",
+        "Product": "D",
+        "run_rate": 150,
+        "cleanup_time": 2.0
+    },
+    {
+        "asset_id": "L042",
+        "Product": "E",
+        "run_rate": 25,
+        "cleanup_time": 1.0
+    },
+    {
+        "asset_id": "L451",
+        "Product": "A",
+        "run_rate": 65,
+        "cleanup_time": 3.0
+    },
+    {
+        "asset_id": "L451",
+        "Product": "B",
+        "run_rate": 80,
+        "cleanup_time": 2.0
+    },
+    {
+        "asset_id": "L451",
+        "Product": "C",
+        "run_rate": 45,
+        "cleanup_time": 2.5
+    },
+    {
+        "asset_id": "L451",
+        "Product": "D",
+        "run_rate": 10,
+        "cleanup_time": 3.0
+    },
+    {
+        "asset_id": "L451",
+        "Product": "E",
+        "run_rate": 15,
+        "cleanup_time": 4.0
+    },
+    {
+        "asset_id": "L673",
+        "Product": "A",
+        "run_rate": 70,
+        "cleanup_time": 3.0
+    },
+    {
+        "asset_id": "L673",
+        "Product": "B",
+        "run_rate": 45,
+        "cleanup_time": 1.0
+    },
+    {
+        "asset_id": "L673",
+        "Product": "C",
+        "run_rate": 20,
+        "cleanup_time": 4.0
+    },
+    {
+        "asset_id": "L673",
+        "Product": "D",
+        "run_rate": 40,
+        "cleanup_time": 1.0
+    },
+    {
+        "asset_id": "L673",
+        "Product": "E",
+        "run_rate": 40,
+        "cleanup_time": 1.0
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "asset_id": "L007",
+        "days_per_week": 7,
+        "weeks_per_year": 48,
+        "hours_per_shift": 8.0,
+        "shifts_per_day": 3
+    },
+    {
+        "asset_id": "L042",
+        "days_per_week": 5,
+        "weeks_per_year": 48,
+        "hours_per_shift": 6.5,
+        "shifts_per_day": 3
+    },
+    {
+        "asset_id": "L451",
+        "days_per_week": 5,
+        "weeks_per_year": 50,
+        "hours_per_shift": 8.0,
+        "shifts_per_day": 3
+    },
+    {
+        "asset_id": "L673",
+        "days_per_week": 7,
+        "weeks_per_year": 52,
+        "hours_per_shift": 8.0,
+        "shifts_per_day": 2
+    }
+]
